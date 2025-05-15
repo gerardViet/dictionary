@@ -1,4 +1,5 @@
 # Dictionary 🧩📚
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Une application Flutter conçue pour aider les amateurs de jeux de lettres (Scrabble, mots croisés, Wordle, etc.) à trouver des mots selon des critères personnalisés.
 
