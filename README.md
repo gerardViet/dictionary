@@ -1,5 +1,11 @@
 # Dictionary 🧩📚
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Flutter](https://img.shields.io/badge/Flutter-Enabled-blue)
+![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web-informational)
+[![GitHub issues](https://img.shields.io/github/issues/gerardViet/dictionary)](https://github.com/gerardViet/dictionary/issues)
+[![GitHub stars](https://img.shields.io/github/stars/gerardViet/dictionary)](https://github.com/gerardViet/dictionary/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/gerardViet/dictionary)](https://github.com/gerardViet/dictionary/network)
 
 Une application Flutter conçue pour aider les amateurs de jeux de lettres (Scrabble, mots croisés, Wordle, etc.) à trouver des mots selon des critères personnalisés.
 
