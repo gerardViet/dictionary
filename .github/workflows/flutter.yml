@@ -16,7 +16,7 @@ jobs:
       - name: Install Flutter
         uses: subosito/flutter-action@v2
         with:
-          flutter-version: '3.29.0'  # 👈 Ta version locale
+          flutter-version: 'stable'
 
       - name: Install dependencies
         run: flutter pub get
